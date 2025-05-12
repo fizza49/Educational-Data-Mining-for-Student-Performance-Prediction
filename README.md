@@ -82,12 +82,9 @@ F1-score: 0.8606
 ## Insights & Impact
 
 - Higher Study Time & Parental Support → Higher GPA
-
 - Extracurricular Activities showed mixed influence
-
 - Grade class imbalance requires model balancing techniques
-
-Power BI Dashboard: Used to visualize student performance trends, parental influence, and attendance impact.
+- Power BI Dashboard: Used to visualize student performance trends, parental influence, and attendance impact.
 
  ## Future Improvements
  
@@ -112,12 +109,17 @@ pip install -q streamlit pyngrok
 
 ### How to run?
 
--clone the repository
-git clone [https://github.com/yourusername/student-performance-prediction](https://github.com/fizza49/Educational-Data-Mining-for-Student-Performance-Prediction.git)
+- clone the repository
+  
+git clone [clone](https://github.com/fizza49/Educational-Data-Mining-for-Student-Performance-Prediction.git)
 
 
  ## Contributors
+ 
  [Fizza Kashif](https://github.com/fizza49)
+ 
  [Hareem Fatima](https://github.com/HareemFatima5)
+ 
  [Misbah Shaheen](https://github.com/Misbah-shaheen)
+ 
  [Sana Khan Khitran](https://github.com/sanakhitran22)
