@@ -106,6 +106,12 @@ F1-score: 0.8606
 ``` C
 pip install -q streamlit pyngrok
 ```
+- create the account on [ngrok](https://ngrok.com/)
+- get your auth_token and paste it.
+
+``` C
+conf.get_default().auth_token = "here"
+```
 
 ### How to run?
 
